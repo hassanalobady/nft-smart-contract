@@ -7,6 +7,7 @@ This project has been demonstrates a basic derbyverse project. It comes with a  
 
 Requirements / dependencies 
 
+```shell
 Solidity
 Hardhat
 Ethers.js
@@ -15,6 +16,7 @@ NFT.storage IPFS  = https://www.pinata.cloud/
 MetaMask
 ether api =  https://infura.io/dashboard
 OpenZeppelin
+```
 
 Try running some of the following tasks:
 
