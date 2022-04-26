@@ -1,0 +1,22 @@
+{
+  "name": "DerbyVerse 2",
+  "description": "DerbyVerse",
+    "image": "https://ipfs.io/ipfs/QmZh4iu6M6xcPaT3GFpXsEtoGLhrksQZ4f158dxp1Zq3cW",
+    "attributes": [{
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal black eye"
+    },
+    {
+      "trait_type": "hair",
+      "value": "ponytail"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Ear cover - checkered"
+    }
+  ]
+}

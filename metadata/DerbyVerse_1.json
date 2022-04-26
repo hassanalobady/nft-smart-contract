@@ -1,0 +1,22 @@
+{
+  "name": "DerbyVerse 1",
+  "description": "DerbyVerse",
+  "image": "https://ipfs.io/ipfs/QmcbtyTruF5gQiFd6N4iFAL5dk5ZdKnurKrfukVgpUexAe",
+  "attributes": [{
+      "trait_type": "Background",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "laser"
+    },
+    {
+      "trait_type": "hair",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring - Silver"
+    }
+  ]
+}
