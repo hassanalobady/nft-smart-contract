@@ -1,7 +1,7 @@
-# smart contract deployment of derbyverse nft project
+# smart contract deployment of Arenna project  project
 
 
-This project has been demonstrates a basic derbyverse project. It comes with a  ERC721 contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project has been demonstrates a basic derbyverse project. It comes with a  ERC1155 contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
 
 
